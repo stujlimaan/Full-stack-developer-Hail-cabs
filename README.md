@@ -1,7 +1,5 @@
 # Full-stack-developer-Hail-cabs
 
-# Full-Stack-Developer-Hail-Cabs
-
 # Challenges
 
 ---
